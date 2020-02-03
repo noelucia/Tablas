@@ -1,0 +1,35 @@
+body{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 14px
+}
+article{
+    width: 20%;
+    text-align: justify;
+    float: left;
+    padding: 20px;
+    margin-top: 8px;
+    background-color:white;
+    box-shadow: 0 0 9px 1px; color: black;
+
+}
+.segundo{
+    padding: 20px;
+    margin: 20px;
+
+}
+aside{
+    width: 20%;
+    float: right;
+    margin-top: 8px;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 0 9px 1px; color: black;
+
+}
+
+footer{
+    clear: both;
+    padding: 20px;
+    position: absolute;
+    bottom: 0;
+}
